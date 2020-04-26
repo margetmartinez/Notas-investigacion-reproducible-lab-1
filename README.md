@@ -1,2 +1,2 @@
-# notas-investigacion-reproducible
-## readme
+# Notas sobre investigación reproducible y análisis de datos
+#### Reproductivilidad
